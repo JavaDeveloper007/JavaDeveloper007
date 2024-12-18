@@ -1,4 +1,3 @@
-![Design and Development](https://github.com/JavaDeveloper007/javadevoloper/blob/main/pydonts-thumbnail.png)
 # Hi, I'm Javohir Farmonov! 👋
 
 ## 🛠️ Skills:
