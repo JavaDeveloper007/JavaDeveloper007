@@ -2,7 +2,7 @@
 
 ## 🛠️ Skills:
 - **Programming Languages**: Python, JavaScript  
-- **Databases**: MySQL, SQLite, PostgreSQL  
+- **Databases**: SQLite, PostgreSQL  
 - **Frameworks and Libraries**: Django, FastAPI, Aiogram, PyTorch, YOLOv8  
 - **Tools**: Git, Visual Studio Code  
 
