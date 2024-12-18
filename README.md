@@ -18,7 +18,7 @@
 - Solving problems on **LeetCode**  ( [My Profile](https://leetcode.com/u/javohir07/) )  
 
 ## 📝 About Me:
-- **Student** at Jizzakh State University (JDU)  
+- **Student** at Japan Digital University (JDU)  
 - Started programming in 9th grade with **Python** as my first language  
 - **Nationality**: Uzbek  
 - **Languages**:  
